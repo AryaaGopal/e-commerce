@@ -1,0 +1,27 @@
+.nav-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    background-color:  rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    
+  }
+  
+  
+  .nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+    margin-left: 10px;
+    color: white;
+  }
+  .image-container {
+    width: 100%;
+    height: 100%;
+    /* Add other styles as needed */
+  }
+  

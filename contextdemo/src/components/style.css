@@ -1,0 +1,32 @@
+.header-container {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  .header-text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin-left: 20px;
+  }
+  
+  .nav-item a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .nav-item a:hover {
+    color: #ff8c00;
+  }
+  

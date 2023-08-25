@@ -1,0 +1,250 @@
+{
+  "cart": {
+    "userId": "arya@gmail.com",
+    "cart": [
+      {
+        "id": "8962d0d1-ff1a-4b49-8022-ba6a0ec44b0a",
+        "name": "Sleek Plastic Towels",
+        "price": "583.00",
+        "image": "https://picsum.photos/200/300?random=89846",
+        "inStock": 3,
+        "fastDelivery": true,
+        "ratings": 2,
+        "qty": 1
+      },
+      {
+        "id": "1e6feb6d-6a1d-4b88-97cb-b3be5a656b6c",
+        "name": "Handcrafted Metal Chicken",
+        "price": "328.00",
+        "image": "https://picsum.photos/200/300?random=95944",
+        "inStock": 7,
+        "fastDelivery": false,
+        "ratings": 4,
+        "qty": "3"
+      },
+      {
+        "id": "8038f5c3-8718-41b1-b479-6d3842760bdc",
+        "name": "Awesome Wooden Mouse",
+        "price": "324.00",
+        "image": "https://picsum.photos/200/300?random=68367",
+        "inStock": 6,
+        "fastDelivery": true,
+        "ratings": 3,
+        "qty": "3"
+      },
+      {
+        "id": "6b6cbba5-fd5c-4803-8f5c-387181b1b479",
+        "name": "Practical Fresh Bike",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "price": "283.00",
+        "image": "https://picsum.photos/200/300?random=18724",
+        "inStock": 5,
+        "fastDelivery": false,
+        "ratings": 1,
+        "qty": 1
+      }
+    ]
+  },
+  "Products": {
+    "Products": [
+      {
+        "id": "f20f9621-4e8f-4106-af75-14d86d8ba7a1",
+        "name": "Practical Granite Table",
+        "price": "153.00",
+        "image": "https://picsum.photos/200/300?random=5570",
+        "inStock": 7,
+        "fastDelivery": false,
+        "ratings": 5
+      },
+      {
+        "id": "44ef046c-8487-4f44-bb0c-b42faea1c574",
+        "name": "Small Wooden Pants",
+        "price": "528.00",
+        "image": "https://picsum.photos/200/300?random=20947",
+        "inStock": 5,
+        "fastDelivery": true,
+        "ratings": 1
+      },
+      {
+        "id": "eb9dc935-2c31-402c-9428-223fa6a61946",
+        "name": "Refined Metal Cheese",
+        "price": "828.00",
+        "image": "https://picsum.photos/200/300?random=78010",
+        "inStock": 0,
+        "fastDelivery": false,
+        "ratings": 5
+      },
+      {
+        "id": "4f77e2eb-0598-4084-9e1c-50756d35ffb6",
+        "name": "Unbranded Fresh Towels",
+        "price": "149.00",
+        "image": "https://picsum.photos/200/300?random=23782",
+        "inStock": 7,
+        "fastDelivery": true,
+        "ratings": 4
+      },
+      {
+        "id": "b2a4be07-ef09-4464-8a45-a75acef16b12",
+        "name": "Small Metal Bike",
+        "price": "266.00",
+        "image": "https://picsum.photos/200/300?random=36542",
+        "inStock": 5,
+        "fastDelivery": false,
+        "ratings": 1
+      },
+      {
+        "id": "475d798f-10b6-4c49-91ac-f1ccddf29cfe",
+        "name": "Handcrafted Cotton Mouse",
+        "price": "413.00",
+        "image": "https://picsum.photos/200/300?random=54611",
+        "inStock": 7,
+        "fastDelivery": false,
+        "ratings": 2
+      },
+      {
+        "id": "8ffbd927-0ed4-4b0d-8786-b0a8d268b814",
+        "name": "Generic Plastic Soap",
+        "price": "566.00",
+        "image": "https://picsum.photos/200/300?random=704",
+        "inStock": 6,
+        "fastDelivery": false,
+        "ratings": 4
+      },
+      {
+        "id": "cf169771-5557-4bd9-9624-0d7434eab8fa",
+        "name": "Licensed Steel Shirt",
+        "price": "151.00",
+        "image": "https://picsum.photos/200/300?random=2527",
+        "inStock": 0,
+        "fastDelivery": false,
+        "ratings": 5
+      },
+      {
+        "id": "54817175-58c4-4a56-833d-e29f4fc5e2e4",
+        "name": "Generic Granite Shirt",
+        "price": "588.00",
+        "image": "https://picsum.photos/200/300?random=17155",
+        "inStock": 6,
+        "fastDelivery": false,
+        "ratings": 3
+      },
+      {
+        "id": "840b26e4-feb0-4aa6-a67c-4d994aa0358c",
+        "name": "Small Concrete Sausages",
+        "price": "299.00",
+        "image": "https://picsum.photos/200/300?random=75391",
+        "inStock": 0,
+        "fastDelivery": false,
+        "ratings": 3
+      },
+      {
+        "id": "df34f22b-2ea3-48b5-96ef-80a86398bc4b",
+        "name": "Refined Steel Pizza",
+        "price": "450.00",
+        "image": "https://picsum.photos/200/300?random=51069",
+        "inStock": 3,
+        "fastDelivery": true,
+        "ratings": 2
+      },
+      {
+        "id": "42d231fe-aae0-48da-99c5-0165463597c1",
+        "name": "Refined Plastic Soap",
+        "price": "115.00",
+        "image": "https://picsum.photos/200/300?random=32142",
+        "inStock": 5,
+        "fastDelivery": true,
+        "ratings": 3
+      },
+      {
+        "id": "ce23eb7e-7fa6-4c45-9289-98710b9b8404",
+        "name": "Handmade Soft Salad",
+        "price": "657.00",
+        "image": "https://picsum.photos/200/300?random=32107",
+        "inStock": 7,
+        "fastDelivery": true,
+        "ratings": 3
+      },
+      {
+        "id": "4b644ac1-67ce-4f4a-8f31-d88ab0032732",
+        "name": "Fantastic Concrete Fish",
+        "price": "524.00",
+        "image": "https://picsum.photos/200/300?random=98007",
+        "inStock": 7,
+        "fastDelivery": true,
+        "ratings": 1
+      },
+      {
+        "id": "03ea676b-9a9d-4a28-b0c8-1e3329e93481",
+        "name": "Generic Frozen Fish",
+        "price": "99.00",
+        "image": "https://picsum.photos/200/300?random=58304",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 1
+      },
+      {
+        "id": "11b8cf40-ddd6-4311-8b86-1c0e4cf74e5d",
+        "name": "Practical Metal Table",
+        "price": "325.00",
+        "image": "https://picsum.photos/200/300?random=99753",
+        "inStock": 5,
+        "fastDelivery": true,
+        "ratings": 1
+      },
+      {
+        "id": "708f02f2-6d9d-4465-9f75-9e63236b637f",
+        "name": "Practical Fresh Salad",
+        "price": "356.00",
+        "image": "https://picsum.photos/200/300?random=75621",
+        "inStock": 6,
+        "fastDelivery": false,
+        "ratings": 2
+      },
+      {
+        "id": "a1500d58-d90d-4fec-b1bf-49c6e1d9d6e1",
+        "name": "Fantastic Wooden Table",
+        "price": "929.00",
+        "image": "https://picsum.photos/200/300?random=54585",
+        "inStock": 7,
+        "fastDelivery": true,
+        "ratings": 2
+      },
+      {
+        "id": "a7bacf97-b03e-4da6-964b-5260e9300dbc",
+        "name": "Practical Frozen Bike",
+        "price": "429.00",
+        "image": "https://picsum.photos/200/300?random=15507",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 5
+      },
+      {
+        "id": "2749ed42-a159-40ef-8c9b-fc4eee840a53",
+        "name": "Practical Cotton Gloves",
+        "price": "935.00",
+        "image": "https://picsum.photos/200/300?random=31567",
+        "inStock": 6,
+        "fastDelivery": false,
+        "ratings": 5
+      },
+      {
+        "id": "cbfc8199-9947-4e89-95de-71a2c92f1c06",
+        "name": "Refined Granite Chips",
+        "price": "740.00",
+        "image": "https://picsum.photos/200/300?random=35369",
+        "inStock": 3,
+        "fastDelivery": true,
+        "ratings": 1
+      },
+      {
+        "id": "0d79ada3-6e3b-421e-a49e-bf72454d1bca",
+        "name": "Handcrafted Steel Sausages",
+        "price": "187.00",
+        "image": "https://picsum.photos/200/300?random=67336",
+        "inStock": 0,
+        "fastDelivery": true,
+        "ratings": 3
+      }
+    ]
+  }
+}

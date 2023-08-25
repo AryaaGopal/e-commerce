@@ -1,0 +1,45 @@
+.atm-card {
+    width: 300px;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: black;
+
+  }
+  
+  .atm-card .card-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .atm-card form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .atm-card form label {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .atm-card form input {
+    height: 40px;
+    font-size: 16px;
+    padding: 8px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin-bottom: 16px;
+  }
+  
+  .atm-card form button {
+    height: 40px;
+    font-size: 16px;
+  }
+  .form{
+    padding-left: 550px;
+    
+  }
+  .card-buttons{
+    gap: 1rem;
+  }
+  
