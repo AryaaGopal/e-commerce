@@ -45,11 +45,16 @@ function LoginPage({ loggin, onLogin }) {
     let loginErrors = {};
     let Valid = true;
 
-    // Check if required fields are empty
     if (!loginEmail.trim()) {
-      loginErrors.Email = 'email is required';
+      loginErrors.Email = 'Email is required';
       Valid = false;
+      console.log("no email")
     }
+    else if(!loginEmail.match(/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i)) {
+       loginErrors.Email="please enter valid email"
+       Valid=false;
+      };
+    
     if (!loginPassword.trim()) {
       loginErrors.Password = 'password is required';
       Valid = false;
@@ -84,6 +89,11 @@ function LoginPage({ loggin, onLogin }) {
       isValid = false;
       console.log("no email")
     }
+    else if(!state.Email.match(/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i)) {
+       errors.Email="please enter valid email"
+       isValid=false;
+      };
+    
     if (!state.PhoneNumber.trim()) {
       errors.PhoneNumber = 'Phone Number is required';
       isValid = false;
