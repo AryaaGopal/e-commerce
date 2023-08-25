@@ -228,7 +228,7 @@ function LoginPage({ loggin, onLogin }) {
   } else {
     return (
       <div className="form-container">
-        <h1>Registration Form</h1>
+        <h1>Registration</h1>
         <form onSubmit={handleSubmit}>
           <div className="form-row">
             <label className="form-label">
