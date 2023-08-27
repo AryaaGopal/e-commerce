@@ -64,6 +64,7 @@ const Context = ({ children, loggedInUser }) => {
     byFastDelivery: false,
     byRating: 0,
     searchQuery: ""
+    
   });
 
   useEffect(() => {
